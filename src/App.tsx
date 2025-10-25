@@ -18,7 +18,7 @@ function App() {
   return (
   <>
     <NavBar />
-    <Login />
+    {/* <Login /> */}
     <Routes>
       <Route path="/acceuil" element={<FirstComponent name={'test'} />} />
       <Route path="/second" element={<SecondComponent />} />
