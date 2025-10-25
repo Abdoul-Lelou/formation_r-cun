@@ -1,0 +1,17 @@
+.nav_background{
+    background-color: #ffa400;
+}
+.badge{
+    background-color: #fff;
+}
+.bg-header{
+    background-color: #eefdef;
+}
+.text-header-color{
+    color: #ffa400;
+}
+.my-header-card{
+    padding: 0;
+    width: 30%;
+    border: none;
+}
